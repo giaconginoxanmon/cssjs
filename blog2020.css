@@ -1112,7 +1112,7 @@ div.post-content {
 }
 
 .menu-full {
-    background: #0A863E;
+    background: #3d3d3d;
 }
 
 .meta span:last-child {
@@ -1120,9 +1120,9 @@ div.post-content {
   
 }
 ul.menu ul {
-    background: #0A863E;
+    background: #3d3d3d;
     
-    border-bottom: 5px solid #0A863E;
+    border-bottom: 5px solid #3d3d3d;
     
 }
 #menu-box &gt; nav &gt; ul &gt; li &gt; a:hover {
@@ -1156,8 +1156,8 @@ border-top:none;
 #footer a, .footer-credits a {
     color: #000;
 }
-  #menu-select{background:#0A863E}
-  .post-body a{color:#0A863E !important}
+  #menu-select{background:#3d3d3d}
+  .post-body a{color:#3d3d3d !important}
 a.post-thumb {
 height:auto;
 }
