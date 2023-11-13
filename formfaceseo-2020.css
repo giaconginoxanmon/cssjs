@@ -120,7 +120,7 @@
 	margin-top: 0;
 }
 .thanhgform_wrapper .gform_footer input[type="submit"] {
-	background: #ffc552 none no-repeat scroll 0 0;
+	background: #4d3b18 none no-repeat scroll 0 0;
 	border: medium none;
 	border-radius: 3px;
 	color: #fff;
@@ -140,7 +140,7 @@
 	cursor: pointer;
 }
 .thanhgform_wrapper .gform_footer input[type="submit"]:hover {
-	background: #ffa430 none repeat scroll 0 0;
+	background: #382a17 none repeat scroll 0 0;
 }
 .thanhgform_wrapper .thanhtop_label input.medium, .thanhgform_wrapper .thanhtop_label select.medium {
 	background-color: #fff;
